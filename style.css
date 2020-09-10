@@ -1,0 +1,75 @@
+header {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(46, 43, 43);
+    padding-bottom: 50px;
+}
+
+
+header img {
+    padding-top: 13px;
+    float: left;
+}
+
+nav ul{
+    list-style-type: none;
+    color: rgb(177, 176, 176);
+}
+
+ul li {
+    float: left;
+    margin-left: 50px;
+    padding-top: 40px;
+}
+
+main {
+    width: 1000px;
+  
+}
+main img {
+padding-top: 30px;
+}
+
+main div img {
+    float: left;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+article img {
+    padding-top: 0px;
+    float: left;
+}
+
+h2 {
+    margin-top: 435px;
+    font-size: 22px;
+    margin-left: 510px;
+}
+
+p {
+    padding-top: 5px;
+    overflow-y: scroll;
+    margin-left: 510px;
+    margin-right: 40px;
+    height: 350px;
+
+}
+button {
+    background-color: black;
+    color: white;
+    margin-left: 510px;
+}
+
+button:hover {
+    background-color: rgb(147, 143, 143);
+    color: white;
+}
+
+footer {
+    background-color: rgb(46, 43, 43);
+    width: 100%;
+    height: 125px;
+    color: rgb(46, 43, 43);
+    margin-top: 30px;
+}
